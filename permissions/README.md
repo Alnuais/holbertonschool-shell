@@ -25,3 +25,5 @@
 14-change_owner_and_group: Changes owner to vincent and group to staff for all non-hidden items in the current directory.
 
 15-symbolic_link_permissions: Changes the owner and group of the symbolic link _hello.
+
+16-if_only: Changes the owner of hello to vincent only if currently owned by guillaume.
