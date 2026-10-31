@@ -17,3 +17,5 @@
 10-mirror_permissions: Copies permissions from olleh to hello.
 
 11-directories_permissions: Adds execute permission to directories recursively.
+
+12-directory_permissions: Creates my_dir with permissions 751.
