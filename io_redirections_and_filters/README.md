@@ -17,3 +17,12 @@ This project covers shell output, input redirections, and filters.
 12-newest_files: Lists the ten newest files.
 13-unique: Prints words occurring exactly once.
 14-findthatword: Displays lines containing root.
+
+15-countthatword: Counts lines containing bin.
+16-whatsnext: Displays root matches and three following lines.
+17-hidethisword: Excludes lines containing bin.
+18-letteronly: Displays lines starting with letters.
+19-AZ: Replaces A with Z and c with e.
+20-hiago: Removes c and C.
+21-reverse: Reverses input lines.
+22-users_and_homes: Lists users and home directories alphabetically.
