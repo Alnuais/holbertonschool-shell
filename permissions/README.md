@@ -19,3 +19,5 @@
 11-directories_permissions: Adds execute permission to directories recursively.
 
 12-directory_permissions: Creates my_dir with permissions 751.
+
+13-change_group: Changes the group ownership of hello to school.
