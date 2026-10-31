@@ -13,3 +13,5 @@
 7-everybody: Adds execute permission to all users for hello.
 
 9-John_Doe: Sets the permissions of hello to 753.
+
+10-mirror_permissions: Copies permissions from olleh to hello.
